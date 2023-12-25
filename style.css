@@ -1,0 +1,32 @@
+body {
+  background-color: greenyellow;
+}
+
+.image-container {
+  border-radius: 90px;
+  width: 220px;
+  height: 200px;
+  margin-left: 36%;
+}
+
+h1 {
+  color: brown;
+  font-size: 35px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: blueviolet;
+}
+
+footer {
+  text-align: end;
+}
+
+ 
